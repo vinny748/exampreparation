@@ -1,0 +1,29 @@
+<!--<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+      Dropdown button
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+        <li><a class="nav-link ms-5 me-5 text-white bg-danger" routerLink="year1" routerLinkActive="active"><b> Year1</b></a></li>
+        <li><a class="nav-link ms-5 me-5 text-white bg-danger" routerLink="year2" routerLinkActive="active"> <b>  Year2</b></a></li>
+        <li><a class="nav-link ms-5 me-5 text-white bg-danger" routerLink="year3" routerLinkActive="active"><b>  Year3</b></a></li>
+        <li><a class="nav-link ms-5 me-5 text-white bg-danger" routerLink="year4" routerLinkActive="active"><b> Year4</b></a></li>
+    </ul>
+  </div>
+  <div class="container">
+    <router-outlet></router-outlet>
+   </div>
+-->
+<div class="dropdown">
+    <button class="btn dropdown-toggle text-center mt-3" routerLink="subjects" routerLinkActive="active" style ="color: rgb(145, 70, 70); background-color: bisque;" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+     SELECT YEAR
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+      <li><a class="dropdown-item" href="#" routerLink="year1">Year1</a></li>
+      <li><a class="dropdown-item" href="#" routerLink="year2">Year2</a></li>
+      <li><a class="dropdown-item" href="#" routerLink="Year3">year3</a></li>
+      <li><a class="dropdown-item" href="#" routerLink="year4">Year4</a></li>
+    </ul>
+  </div>
+  <div class="container">
+    <router-outlet></router-outlet>
+   </div>

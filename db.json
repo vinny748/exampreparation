@@ -1,0 +1,157 @@
+{"users":
+    [
+        {
+            "id":1,
+            "email":"georgia.miller@reqres.in",
+            "name":"Georgia Miller",
+            "profilePic":"https://i.pinimg.com/236x/29/b8/17/29b81724dc7a0df86a51148941655f75.jpg",
+            "address":
+            {
+                "street": "park street",
+                "suite": "Suite 12A",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Employee in mayor office",
+            "mobileno":"210-057-5782"
+        },
+        {
+            "id":2,
+            "email":"joe.weaver@reqres.in",
+            "name":"Janet",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6_9swFkXD46NGWxB1wfaI2i0qMsm6hh7lw&usqp=CAU",
+            "address":
+            {
+                "street": "Norberto Crossing",
+                "suite": "Suite 72B",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"local restaurateur",
+            "mobileno":"1-477-935- x6430"
+        },
+        {
+            "id":3,
+            "email":"paul randolph@requres.in",
+            "name":"Paul Randolph",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVp89Eik6gO8R21rk7FQ7CsgYlxIXbeAmdA&usqp=CAU",
+            "address":
+            {
+                "street": "newland street",
+                "suite": "Suite 351",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Mayor",
+            "mobileno":"(235)921-1289"
+        },
+        {
+            "id":4,
+            "email":"Ginny.miller@reqres.in",
+            "name":"Virginia",
+            "profilePic":"https://www.personality-database.com/profile_images/278064.png",
+            "address":
+            {
+                "street": "park street",
+                "suite": "Suite 12A",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Student",
+            "mobileno":"493-170-9623 x156"
+        },
+        {
+            "id":5,
+            "email":"Hunter chan@reqres.in",
+            "name":"Hunter chan",
+            "profilePic":"https://m.media-amazon.com/images/M/MV5BODk0Mzc2YTYtNTY0ZC00YTAzLWE0MTItZmZjYmZmOWUxYmJlXkEyXkFqcGdeQXVyNzQyNTY3NzI@._V1_.jpg",
+            "address":
+            {
+                "street": "Hoeger Mall",
+                 "suite": "Apt. 692",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Musician",
+            "mobileno":"1-463-147-4434"
+        },
+        {
+            "id":6,
+            "email":"Marcus@reqres.in",
+            "name":"Marcus baker",
+            "profilePic":"https://64.media.tumblr.com/4138432b80b7b98c76361afe50543e3e/1b319c3caa3d2398-b3/s1280x1920/04f3b43219fcbaa743e3fa09eb4cdf56fffe6b94.png",
+            "address":
+            {
+                "street": "Park street",
+                "suite": "Suite 847",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Student",
+            "mobileno":"434-125-4447"
+        },
+        {
+            "id":7,
+            "email":"maxine@april.biz",
+            "name":"Maxine baker",
+            "profilePic":"https://media1.popsugar-assets.com/files/thumbor/My-mwGWOvogGy5s-e8r40nxh05A/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/02/06/112/n/44701584/addurlaGECCg/i/p.jpg",
+            "address":
+             {
+                "street": "Park street",
+                "suite": "Suite 847",
+                "city": "Wellsbury",
+                "zipcode": "22356-765"
+             },
+            "profession":"Software Developer",
+            "mobileno":"010-692-6593 x09125"
+        },
+        {
+            "id":8,
+            "email":"Padma@melissa.tv",
+            "name":"Padma",
+            "profilePic":"https://reqres.in/img/faces/3-image.jpg",
+            "address":
+            {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "22356-765"
+            },
+            "profession":"Lecturer",
+            "mobileno":"1-770-736-8031 x56442"
+        },
+        {
+            "id":9,
+            "email":"abby@yesenia.net",
+            "name":"Abby",
+            "profilePic":"https://reqres.in/img/faces/2-image.jpg",
+            "address":
+            {
+                "street": "Kattie Turnpike",
+                "suite": "Suite 198",
+                "city": "Welsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Engineer",
+            "mobileno":"024-648-3804"
+        },
+        {
+            "id":10,
+            "email":"sophie.OConner@kory.org",
+            "name":"Sophie",
+            "profilePic":"https://reqres.in/img/faces/1-image.jpg",
+            "address":
+            { 
+                "street": "Dayna Park",
+                "suite": "Suite 449",
+                "city": "wellsbury",
+                "zipcode": "22356-765"
+            },
+            "profession":"Professor",
+            "mobileno":"(254)954-1289"
+        }
+       
+    ]
+    
+    }
+  
